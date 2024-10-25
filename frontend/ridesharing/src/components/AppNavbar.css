@@ -1,0 +1,8 @@
+.dropdown .dropdown-menu {
+    width: 100% !important;
+  }
+  
+  .dropdown .dropdown-item {
+    text-align: center; 
+    padding: 10px;  
+  }

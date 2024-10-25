@@ -1,0 +1,117 @@
+.book-ride-container {
+  max-width: 600px; 
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center; 
+  background-color: #f8f9fa; 
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.navbar {
+  position: fixed; 
+  top: 0;
+  left: 0;
+  width: 100%; 
+  background-color: #333; 
+  z-index: 1000; 
+  padding: 1rem;
+  color: white;
+}
+
+.book-ride-container h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #343a40; 
+}
+
+
+.form-container {
+  display: flex;
+  justify-content: center; 
+  margin-bottom: 20px; 
+}
+
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px; 
+  width: 100%;
+  max-width: 400px;
+}
+
+
+.form input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 100%; 
+}
+
+
+.form button {
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background-color 0.3s;
+}
+
+.form button:hover {
+  background-color: #0056b3;
+}
+
+
+.ride-detail {
+  background-color: white;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  text-align: left; 
+}
+
+.ride-detail h3 {
+  font-size: 22px;
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.ride-detail p {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 8px;
+}
+
+.ride-price span {
+  font-size: 18px;
+  font-weight: bold;
+  color: #28a745; 
+}
+
+
+.ride-detail button {
+  background-color: #28a745; 
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.ride-detail button:hover {
+  background-color: #218838;
+}
+
+.no-rides-message {
+  font-size: 18px;
+  color: #dc3545; 
+  margin-top: 20px;
+}

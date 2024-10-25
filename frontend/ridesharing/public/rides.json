@@ -1,0 +1,59 @@
+[
+    {
+      "from": "a",
+      "to": "b",
+      "price": 300,
+      "transportType": "Car",
+      "driverName": "Sam Smith",
+      "driverPhone": "1234567890",
+      "vehicleNumber": "PB1234"
+    },
+    {
+        "from": "Phagwara",
+        "to": "Jalandhar",
+        "price": 200,
+        "transportType": "Auto",
+        "driverName": "Joe Smith",
+        "driverPhone": "1234567899",
+        "vehicleNumber": "PB1235"
+      },
+      {
+        "from": "Phagwara",
+        "to": "Jalandhar",
+        "price": 100,
+        "transportType": "Bike",
+        "driverName": "Marina",
+        "driverPhone": "1234567879",
+        "vehicleNumber": "PB9734"
+      },
+    {
+      "from": "Phagwara",
+      "to": "Ludhiana",
+      "price": 500,
+      "transportType": "Car",
+      "driverName": "Riya",
+      "driverPhone": "8353849275",
+      "vehicleNumber": "PB7491"
+    },
+    {
+        "from": "Phagwara",
+        "to": "Ludhiana",
+        "price": 200,
+        "transportType": "Bike",
+        "driverName": "Maliya",
+        "driverPhone": "8353729275",
+        "vehicleNumber": "PB7091"
+      },
+
+      {
+        "from": "Delhi",
+        "to": "Phagwara",
+        "price": 1000,
+        "transportType": "Car",
+        "driverName": "Mariya",
+        "driverPhone": "83525189275",
+        "vehicleNumber": "PB8413"
+      }
+
+  ]
+  
